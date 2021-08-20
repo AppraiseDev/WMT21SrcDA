@@ -9,9 +9,11 @@ Code and issue tracker for WMT21 source-based DA campaigns
 
 ## TL;DR
 
-- WMT21 will feature source-based direct assessment (DA)
-- Evaluation will be based on document-level annotation
-- Source-based DA will focus on non-English target languages
+- WMT21 will feature source-based direct assessment (DA) with document-level annotation
+- Source-based DA will focus on non-English target languages, and annotators need to be native speakers of the target language
+- Teams receive a number of anonymous accounts to perform annotations for language pairs of their choice
+- The number of accounts received is based on the number of team's primary submissions
+- Each account includes two tasks which is 1.5h of annotation work on average, and we ask for completing both of them
 - Please use the [Github issue tracker](https://github.com/AppraiseDev/WMT21SrcDA/issues) to report any problems
 
 ## Timeline

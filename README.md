@@ -1,4 +1,4 @@
-# WMT20SrcDA
+# WMT21SrcDA
 
 Code and issue tracker for WMT21 source-based DA campaigns
 
@@ -100,7 +100,7 @@ account are annotated.
 
 ### How can I report problems?
 
-Please use the [Github issue tracker](https://github.com/AppraiseDev/WMT20SrcDA/issues)
+Please use the [Github issue tracker](https://github.com/AppraiseDev/WMT21SrcDA/issues)
 to report any problems. You can also contact us via ``{chrife | rogrundk | tomkocmi } [at] microsoft [dot] com``.
 
 ## Frequently asked questions
